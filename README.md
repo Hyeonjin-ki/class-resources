@@ -7,3 +7,4 @@
 ## Useful Links
 - [Course website]
 - [Library resources]
+- Practice Git commands after each class to remember the workflow.
